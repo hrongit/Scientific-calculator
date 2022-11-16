@@ -14,7 +14,7 @@ algebraic expressions, other sorts of functions, operations with
 polynomials and fractions, square roots, and other forms of roots.<br>
 3.Problems involving logarithms, trigonometric equations, and exponential
 functions can be solved with these calculators.
-#DESIGN
+# DESIGN
 <p align="center">
     <img src="Images/img1.jpg" alt="SS" border="0">
 </p>
