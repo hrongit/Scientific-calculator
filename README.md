@@ -8,10 +8,10 @@ the Arithmetic-Logic Unit (ALU), which has all the mathematical functions.
 # OBJECTIVES
 1.Scientific calculators can be applied generally to solve fractional, root,
 and operation-related questions. When a situation calls for several stages
-to be taken, this kind of calculator is helpful.<br>
+to be taken, this kind of calculator is helpful.<br><br>
 2.A scientific calculator can be used to answer arithmetic issues involving
 algebraic expressions, other sorts of functions, operations with
-polynomials and fractions, square roots, and other forms of roots.<br>
+polynomials and fractions, square roots, and other forms of roots.<br><br>
 3.Problems involving logarithms, trigonometric equations, and exponential
 functions can be solved with these calculators.
 # DESIGN
